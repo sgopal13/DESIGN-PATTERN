@@ -1,0 +1,5 @@
+Adapter design pattern is one of the structural design pattern and its used so that two unrelated interfaces can work together. 
+The object that joins these unrelated interface is called an Adapter.
+
+Notice that both the adapter implementations are almost same and they implement the SocketAdapter interface. 
+The adapter interface can also be an abstract class.
